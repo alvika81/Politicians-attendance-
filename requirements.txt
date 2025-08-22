@@ -1,5 +1,5 @@
-streamlit
-opencv-python-headless
+cmake
+dlib-bin
 face-recognition
-numpy
-Pillow
+flask
+gunicorn
